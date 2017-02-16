@@ -1,0 +1,22 @@
+{
+  "name": "ng-prevent-navigation",
+  "main": "ng-prevent-navigation.js",
+  "homepage": "https://github.com/extremeprog-com/ng-prevent-navigation",
+  "authors": [
+    "mft"
+  ],
+  "description": "Angular directive for prevent navigation out of the page.",
+  "keywords": [
+    "angular",
+    "prevent",
+    "navigation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
